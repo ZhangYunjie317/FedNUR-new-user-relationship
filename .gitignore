@@ -50,3 +50,7 @@ KuaiRec/social_network.csv
 KuaiRec/unprocessed_video_duration.csv
 KuaiRec/user_features.csv
 KuaiRec/video_duration_processed.csv
+__pycache__/
+data/
+cache_attr_nn/
+KuaiRec/
